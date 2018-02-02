@@ -3,6 +3,7 @@
 public class AnimationsScenes : MonoBehaviour {
 
     public GameObject m_RobotNeck;
+    public GameObject m_RobotEyes;
 
     private void Awake()
     {
@@ -17,6 +18,7 @@ public class AnimationsScenes : MonoBehaviour {
     void MoveRobotHead()
     {
         m_neck.SetBool("ActiveRobotHead",true);
+        m_RobotEyes.SetActive(true);
     }
 
     private Animator m_neck;
