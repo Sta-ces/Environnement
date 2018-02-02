@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
 
 public class Menu : MonoBehaviour {
 
@@ -19,7 +16,7 @@ public class Menu : MonoBehaviour {
         Application.Quit();
     }
 
-    void Update()
+    private void Update()
     {
         if (m_SpaceBar.gameObject.activeSelf && Input.GetKeyDown(m_Keyboard))
         {
@@ -28,7 +25,7 @@ public class Menu : MonoBehaviour {
         }
 	}
 
-    void TimePaused()
+    private void TimePaused()
     {
         Time.timeScale = (Time.timeScale == 1) ? 0 : 1;
     }
