@@ -6,7 +6,12 @@ using UnityEngine.SceneManagement;
 public class Menu : MonoBehaviour {
 
     public Canvas m_Menu;
+    public Canvas m_SpaceBar;
 
+    public void Resume()
+    {
+        TimePaused();
+    }
 
     public void QuitApplication()
     {
@@ -14,7 +19,15 @@ public class Menu : MonoBehaviour {
     }
 
     void Update () {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (m_SpaceBar.gameObject.activeSelf && Input.GetKeyDown(KeyCode.Escape))
+        {
             m_Menu.gameObject.SetActive(!m_Menu.gameObject.activeSelf);
+            TimePaused();
+        }
 	}
+
+    void TimePaused()
+    {
+        Time.timeScale = (Time.timeScale == 1) ? 0 : 1;
+    }
 }
