@@ -1,23 +1,44 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class AnimationsScenes : MonoBehaviour {
 
     public GameObject m_RobotNeck;
     public GameObject m_RobotEyes;
     public AudioSource m_SoundSuspence;
-    public Image m_BlackScreen;
+    public Canvas m_BlackScreen;
+    public Canvas m_TextSpaceBar;
+    public Animator m_AnimationSpotLight;
+    [Range(1,20)]
+    public int m_SecondsWaitingSpotLight = 5;
 
     private void Awake()
     {
         m_neck = m_RobotNeck.GetComponent<Animator>();
     }
 
+    private IEnumerator Start()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(m_SecondsWaitingSpotLight);
+            m_AnimationSpotLight.SetTrigger("ActiveSpotLight");
+        }
+    }
+
     void Update () {
-        if (!m_neck.GetBool("ActiveRobotHead") && !m_SoundSuspence.isPlaying && Input.GetKeyDown(KeyCode.Space))
+        if (m_TextSpaceBar.gameObject.activeSelf && Input.GetKeyDown(KeyCode.Space))
+        {
+            m_TextSpaceBar.gameObject.SetActive(false);
             StartCoroutine("MoveRobotHead");
-	}
+        }
+
+        if (m_BlackScreen.gameObject.activeSelf && Input.GetKeyDown(KeyCode.Space))
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
+    }
 
     IEnumerator MoveRobotHead()
     {
