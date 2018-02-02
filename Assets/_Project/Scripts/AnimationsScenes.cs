@@ -10,6 +10,7 @@ public class AnimationsScenes : MonoBehaviour {
     public Canvas m_BlackScreen;
     public Canvas m_TextSpaceBar;
     public Animator m_AnimationSpotLight;
+    public Animator m_AnimationCamera;
     [Range(1,20)]
     public int m_SecondsWaitingSpotLight = 5;
     public KeyCode m_Keyboard;
@@ -32,6 +33,7 @@ public class AnimationsScenes : MonoBehaviour {
         if (m_TextSpaceBar.gameObject.activeSelf && Input.GetKeyDown(m_Keyboard))
         {
             m_TextSpaceBar.gameObject.SetActive(false);
+            m_AnimationCamera.SetTrigger("AnimCamera");
             StartCoroutine("MoveRobotHead");
         }
 
