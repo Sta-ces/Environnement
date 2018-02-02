@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: bfb186b108c14564dae222c2266e4781
+timeCreated: 1517578422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tumblr_nhf4f8sGfz1s4fz4bo1_500_0
+    21300002: tumblr_nhf4f8sGfz1s4fz4bo1_500_1
+    21300004: tumblr_nhf4f8sGfz1s4fz4bo1_500_2
+    21300006: tumblr_nhf4f8sGfz1s4fz4bo1_500_3
+    21300008: tumblr_nhf4f8sGfz1s4fz4bo1_500_4
+    21300010: tumblr_nhf4f8sGfz1s4fz4bo1_500_5
+    21300012: tumblr_nhf4f8sGfz1s4fz4bo1_500_6
+    21300014: tumblr_nhf4f8sGfz1s4fz4bo1_500_7
+    21300016: tumblr_nhf4f8sGfz1s4fz4bo1_500_8
+    21300018: tumblr_nhf4f8sGfz1s4fz4bo1_500_9
+    21300020: tumblr_nhf4f8sGfz1s4fz4bo1_500_10
+    21300022: tumblr_nhf4f8sGfz1s4fz4bo1_500_11
+    21300024: tumblr_nhf4f8sGfz1s4fz4bo1_500_12
+    21300026: tumblr_nhf4f8sGfz1s4fz4bo1_500_13
+    21300028: tumblr_nhf4f8sGfz1s4fz4bo1_500_14
+    21300030: tumblr_nhf4f8sGfz1s4fz4bo1_500_15
+    21300032: tumblr_nhf4f8sGfz1s4fz4bo1_500_16
+    21300034: tumblr_nhf4f8sGfz1s4fz4bo1_500_17
+    21300036: tumblr_nhf4f8sGfz1s4fz4bo1_500_18
+    21300038: tumblr_nhf4f8sGfz1s4fz4bo1_500_19
+    21300040: tumblr_nhf4f8sGfz1s4fz4bo1_500_20
+    21300042: tumblr_nhf4f8sGfz1s4fz4bo1_500_21
+    21300044: tumblr_nhf4f8sGfz1s4fz4bo1_500_22
+    21300046: tumblr_nhf4f8sGfz1s4fz4bo1_500_23
+    21300048: tumblr_nhf4f8sGfz1s4fz4bo1_500_24
+    21300050: tumblr_nhf4f8sGfz1s4fz4bo1_500_25
+    21300052: tumblr_nhf4f8sGfz1s4fz4bo1_500_26
+    21300054: tumblr_nhf4f8sGfz1s4fz4bo1_500_27
+    21300056: tumblr_nhf4f8sGfz1s4fz4bo1_500_28
+    21300058: tumblr_nhf4f8sGfz1s4fz4bo1_500_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_3
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_4
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_5
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2009
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2009
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2009
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_9
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2009
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_10
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2009
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_11
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 2009
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_13
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_15
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_16
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_17
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1005
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1005
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_20
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1005
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_21
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1005
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_22
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1005
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_23
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1005
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 503
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 503
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_26
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 503
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_27
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 503
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_28
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 503
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumblr_nhf4f8sGfz1s4fz4bo1_500_29
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 503
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
