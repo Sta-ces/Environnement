@@ -13,6 +13,7 @@ public class AnimationsScenes : MonoBehaviour {
     public Animator m_AnimationSpotLight;
     [Range(1,20)]
     public int m_SecondsWaitingSpotLight = 5;
+    public KeyCode m_Keyboard;
 
     private void Awake()
     {
@@ -29,13 +30,13 @@ public class AnimationsScenes : MonoBehaviour {
     }
 
     void Update () {
-        if (m_TextSpaceBar.gameObject.activeSelf && Input.GetKeyDown(KeyCode.Space))
+        if (m_TextSpaceBar.gameObject.activeSelf && Input.GetKeyDown(m_Keyboard))
         {
             m_TextSpaceBar.gameObject.SetActive(false);
             StartCoroutine("MoveRobotHead");
         }
 
-        if (m_BlackScreen.gameObject.activeSelf && Input.GetKeyDown(KeyCode.Space))
+        if (m_BlackScreen.gameObject.activeSelf && Input.GetKeyDown(m_Keyboard))
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 
     }
